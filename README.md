@@ -8,7 +8,6 @@
 - HTML
 - CSS
 - JS
-
 ---
 
 ### How to run app:
